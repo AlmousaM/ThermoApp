@@ -5,6 +5,9 @@
 
 # --- Required options --- #
 
+#home page
+paginate_path: "Test"
+
 # Name of website
 title: ThermoApp Project
 
